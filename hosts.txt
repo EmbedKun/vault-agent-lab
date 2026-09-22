@@ -1,0 +1,11 @@
+172.22.5.102 role=agent-lead
+172.22.5.104 role=agent-recon tmp=/dev/shm root=/dev/shm/agent-lab config=/dev/shm/agent-lab/config
+172.22.5.106 role=agent-identity
+172.22.5.108 role=agent-linux
+172.22.5.110 role=agent-windows
+172.22.5.112 role=agent-proof
+172.22.5.114 role=asset-rd-linux
+172.22.5.116 role=asset-fin-linux
+172.22.4.103 role=spare
+172.22.4.220 role=agent-extra-1
+172.22.4.232 role=agent-extra-2
